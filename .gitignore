@@ -23,10 +23,10 @@ assignment_3
 # assignment_4
 # validators/assignment_4
 .addresses.json
-Assignment4Exchange.sol*
+# Assignment4Exchange.sol
 
 scripts/assignment_4/interact*
-deploy_unima.js
+# deploy_unima.js
 
 # Hardhat files
 cache
