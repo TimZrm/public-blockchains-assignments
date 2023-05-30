@@ -26,9 +26,15 @@ assignment_3
 Assignment4Exchange.sol*
 
 scripts/assignment_4/interact*
+deploy_unima.js
 
 # Hardhat files
 cache
 artifacts
 
 *Silas*
+
+exam
+
+*.test
+Assignment4Exchange.template.sol
